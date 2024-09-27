@@ -1,0 +1,60 @@
+commit f3dc902aab5b85147db0c737634070497e800f8e
+Author: Sam Wells <swells1@mines.edu>
+Date:   Fri Sep 27 12:34:56 2024 -0600
+
+    Changed mouth dimensions
+
+commit 0b79603b620f05c306c7d75877463ecf202140c4
+Author: Sam Wells <swells1@mines.edu>
+Date:   Fri Sep 27 12:34:03 2024 -0600
+
+    Changed eye dimensions
+
+commit 465af974c011cbaf74479b875fde1e5d1af72a4a
+Merge: 887f774 051a150
+Author: Sam Wells <swells1@mines.edu>
+Date:   Fri Sep 27 12:33:35 2024 -0600
+
+    Changed head dimensions
+
+commit 887f7744b7b06884a7938df12d5edd5c8328e7ff
+Author: Sam Wells <swells1@mines.edu>
+Date:   Fri Sep 27 12:32:54 2024 -0600
+
+    Changed head dimensions
+
+commit 051a150425e43c65f95cad17d9a959c0c5c0df99
+Author: daghassi <79544966+daghassi@users.noreply.github.com>
+Date:   Fri Sep 27 12:32:53 2024 -0600
+
+    changed draw string from meow to hello
+
+commit 659e9edcf7b8ee6de6801fad8d6e5399cd134979
+Author: daghassi <79544966+daghassi@users.noreply.github.com>
+Date:   Fri Sep 27 12:32:23 2024 -0600
+
+    change color
+
+commit be964e1aed977cebfef0295a1e8f6c3d25ba850e
+Author: daghassi <79544966+daghassi@users.noreply.github.com>
+Date:   Fri Sep 27 12:32:10 2024 -0600
+
+    change color
+
+commit f02456038f060fff4b44910934fc93385ebd2f59
+Author: daghassi <79544966+daghassi@users.noreply.github.com>
+Date:   Fri Sep 27 12:31:51 2024 -0600
+
+    change color
+
+commit 2818d4417c8de131852d5d5d2a91f65e5e1c6022
+Author: Sam Wells <swells1@mines.edu>
+Date:   Fri Sep 27 12:26:55 2024 -0600
+
+    Init
+
+commit ee5e9167c8fdab120ab674c0aab911b60596f8f0
+Author: swells100 <swells1@mines.edu>
+Date:   Fri Sep 27 12:22:40 2024 -0600
+
+    Initial commit
